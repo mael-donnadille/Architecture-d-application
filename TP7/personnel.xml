@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PERSONNEL>
+    <EMPLOYE poste="Administration" societe="Campus12">
+        <NOM>CAMMAS</NOM>
+        <PRENOM>Rachel</PRENOM>
+    </EMPLOYE>
+    <EMPLOYE poste="Directeur" societe="Campus12">
+        <NOM>PITIOT</NOM>
+        <PRENOM>Paul</PRENOM>
+    </EMPLOYE>
+    <EMPLOYE poste="Formateur" societe="3iL">
+        <NOM>RIGAILL</NOM>
+        <PRENOM>Pierre</PRENOM>
+    </EMPLOYE>
+    <EMPLOYE poste="Formateur" societe="3iL">
+        <NOM>ROUSSILLE</NOM>
+        <PRENOM>Philippe</PRENOM>
+    </EMPLOYE>
+    <EMPLOYE poste="Formateur" societe="Independant">
+        <NOM>CASTELLA</NOM>
+        <PRENOM>Fabien</PRENOM>
+    </EMPLOYE>
+    <EMPLOYE poste="Administration" societe="Campus12">
+        <NOM>FABIE</NOM>
+        <PRENOM>Sophie</PRENOM>
+    </EMPLOYE>
+</PERSONNEL>
